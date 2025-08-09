@@ -10,14 +10,16 @@ Core Concept: Three specialized AI agents collaborate to deliver layered emotion
 
 🌱 Self-Care Agent - Recommends wellness strategies
 
-https://img.shields.io/badge/Python-3.9%252B-blue
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://colab.research.google.com/assets/colab-badge.svg
 
 🚀 How It Works
 System Architecture
 Diagram
 Code
+graph LR
+A[User Input] --> B(Mood Analysis Agent)
+B --> C(Companion Agent)
+C --> D(Self-Care Agent)
+D --> E[Personalized Output]
 
 
 
