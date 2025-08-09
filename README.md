@@ -14,12 +14,8 @@ Core Concept: Three specialized AI agents collaborate to deliver layered emotion
 🚀 How It Works
 System Architecture
 Diagram
-Code
-graph LR
-A[User Input] --> B(Mood Analysis Agent)
-B --> C(Companion Agent)
-C --> D(Self-Care Agent)
-D --> E[Personalized Output]
+
+<img width="714" height="147" alt="image" src="https://github.com/user-attachments/assets/63066315-1637-425d-80b2-7a3382728dfb" />
 
 
 
