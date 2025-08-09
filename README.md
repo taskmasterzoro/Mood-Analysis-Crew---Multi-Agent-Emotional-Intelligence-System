@@ -1,4 +1,5 @@
-🌟 Introduction
+#🌟 Introduction
+
 Mood Analysis Crew is an innovative AI-powered emotional intelligence system that combines three specialized agents working in sequence to provide comprehensive emotional support. This multi-agent system analyzes user input, provides empathetic responses, and delivers personalized self-care recommendations using advanced NLP techniques.
 
 Core Concept: Three specialized AI agents collaborate to deliver layered emotional intelligence:
@@ -177,6 +178,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📧 Contact
 For inquiries or support:
 
-Mohit Kainwal: mohit@example.com
+Mohit Kainwal: mohitkainwal418@gmail.com
 
 Project Repository: github.com/taskmasterzoro/mood-analysis-crew
