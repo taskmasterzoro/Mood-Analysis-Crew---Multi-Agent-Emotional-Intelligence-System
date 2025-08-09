@@ -1,0 +1,2 @@
+# Mood-Analysis-Crew---Multi-Agent-Emotional-Intelligence-System
+Mood Analysis Crew is an innovative AI-powered emotional intelligence system that combines three specialized agents working in sequence to provide comprehensive emotional support. This multi-agent system analyzes user input, provides empathetic responses, and delivers personalized self-care recommendations using advanced NLP techniques.
