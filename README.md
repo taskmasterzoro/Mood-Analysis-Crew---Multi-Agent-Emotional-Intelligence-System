@@ -1,4 +1,4 @@
-#🌟 Introduction
+# 🌟 Introduction
 
 Mood Analysis Crew is an innovative AI-powered emotional intelligence system that combines three specialized agents working in sequence to provide comprehensive emotional support. This multi-agent system analyzes user input, provides empathetic responses, and delivers personalized self-care recommendations using advanced NLP techniques.
 
@@ -11,7 +11,7 @@ Core Concept: Three specialized AI agents collaborate to deliver layered emotion
 🌱 Self-Care Agent - Recommends wellness strategies
 
 
-🚀 How It Works
+# 🚀 How It Works
 System Architecture
 Diagram
 
